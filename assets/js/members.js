@@ -26,9 +26,9 @@ const officers = [
     position: "Treasurer",
     image: "assets/img/officers/resized/jacob_kastenschmidt.jpg",
     socials: {
-        linkedin: "",
-        github: "",
-        email: "tamucybersec@gmail.com",
+        linkedin: "https://www.linkedin.com/in/jacob-kastenschmidt-b217731a8/",
+        github: "https://github.com/jacob-kastenschmidt",
+        email: "jacob_kastenschmidt@tamu.edu",
         website: ""
     }
   },
